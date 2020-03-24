@@ -9,7 +9,7 @@ h1 {
   display: inline-block;
   color: #c86b85;
   font-size: 4rem;
-  margin: 50px auto 15px auto;
+  margin: 20px auto 15px auto;
   font-family: 'Allura', cursive;
 }
 
@@ -67,7 +67,7 @@ hr {
   width: 50%;
   margin: 60px auto 60px auto;
   text-align: left;
-  line-height: 2;
+  line-height: 1;
 }
 .intro {
   width: 50%;
