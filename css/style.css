@@ -1,5 +1,4 @@
 body {
-  /* background: #f5eee6; */
   margin: 0;
   text-align: center;
   font-family: 'Sen', sans-serif;
@@ -47,13 +46,14 @@ hr {
   width: 6%;
   margin: 100px auto;
 }
-
+.presentation{
+  margin: 100px 0;
+}
 .top-container {
   background: #ECE5DE;
   background-size: cover;
   position: relative;
-  padding-top: 5%;
-  /* color: #c86b85; */
+  padding-top: 2%;
 }
 .middle-container {
   margin: 100px 0;
