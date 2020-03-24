@@ -105,13 +105,13 @@ hr {
 }
 
 
-.code-img {
+.skills-float-left-img {
   width: 25%;
   float: left;
   margin-right: 30px;
 }
 
-.chilli-img {
+.skills-float-right-img{
   width: 25%;
   float: right;
   margin-left: 30px;
