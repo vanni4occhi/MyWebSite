@@ -3,13 +3,14 @@ body {
   text-align: center;
   font-family: 'Sen', sans-serif;
   color: #40514E;
+  font-size:14px;
 }
 
 h1 {
   display: inline-block;
   color: #c86b85;
   font-size: 4rem;
-  margin: 20px auto 15px auto;
+  margin: 35px auto 15px auto;
   font-family: 'Allura', cursive;
 }
 
@@ -55,7 +56,7 @@ hr {
   position: relative;
 }
 .middle-container {
-  margin: 80px 0;
+  margin: 50px 0;
 }
 
 .bottom-container {
@@ -65,7 +66,7 @@ hr {
 
 .skill-row {
   width: 50%;
-  margin: 60px auto 60px auto;
+  margin: 50px auto 50px auto;
   text-align: left;
   line-height: 1;
 }
@@ -85,11 +86,6 @@ hr {
   padding: 20px 0;
 }
 
-/* .top-cloud {
-  position: absolute;
-  right: 5%;
-  top: 10%;
-}*/
 .middle-cloud {
   position: absolute;
   top: 35%;
@@ -103,7 +99,6 @@ hr {
   right: 10%;
   max-width: 70%;
 }
-
 
 .skills-float-left-img {
   width: 25%;
@@ -122,7 +117,7 @@ hr {
 }
 
 .img {
-  max-width: 30%;
+  width: 30%;
 }
 .mountain{
   max-width: 70%;
