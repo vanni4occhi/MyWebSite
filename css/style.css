@@ -7,7 +7,7 @@ body {
 
 h1 {
   color: #c86b85;
-  font-size: 5.2rem;
+  font-size: 4em;
   margin: 15px auto ;
   font-family: 'Allura', cursive;
 }
@@ -101,7 +101,7 @@ hr {
 }
 
 .img {
-  width: 25%;
+  width: 15%;
 }
 .mountain{
   max-width: 100%;
